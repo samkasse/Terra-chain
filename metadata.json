@@ -1,0 +1,5 @@
+{
+  "name": "TerraChain",
+  "description": "Blockchain-based immutable database for land management, mapping, and agricultural statistics in Uganda.",
+  "requestFramePermissions": []
+}
